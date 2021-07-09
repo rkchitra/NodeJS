@@ -1,3 +1,1 @@
-List of chocolates: 
-(1) Snickers 
-(2) Twix
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed nulla quis felis bibendum volutpat eu eu ipsum. Donec ut turpis id justo lacinia vehicula. Mauris luctus blandit nulla id iaculis. Morbi tristique molestie augue, nec aliquam nisi lacinia sed. Suspendisse pulvinar justo vitae dignissim tincidunt. Integer fermentum velit at porttitor ornare. Etiam pharetra laoreet dictum. Donec a elit sodales, semper mi id, ullamcorper turpis. Etiam a pharetra dolor.
