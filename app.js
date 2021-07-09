@@ -1,7 +1,14 @@
-const fs = require('fs')
-const fileName = "target.txt"
+const fs = require('fs');
+const fileName = "target.txt";
 
-const data = fs.readFileSync(fileName) //synchronous model; blocking;
-console.log(data.toString())
+const errHandler = err => console.log(err);
 
-console.log("\nNode JS Synchronous Programming ")
+const dataHandler = data => console.log(data.toString());
+
+fs.readFile(fileName, (err,data) => {
+	if(err) errHandler(err);
+
+	else	dataHandler(data);
+
+});
+console.log("\nNode JS Programming!\n");
